@@ -16,15 +16,15 @@ Library Used -
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1C6CKNV_eO-yh92XC1CYWkl3rGex3QXYY/view?usp=sharing)
+![ScreenShot](https://drive.google.com/file/d/1C6CKNV_eO-yh92XC1CYWkl3rGex3QXYY/view?usp=sharing)
 
-![App Screenshot](https://drive.google.com/file/d/1YgkPdYgwj8n6iCqdCdleA18W396LyuVh/view?usp=sharing)
+![Screenshot](https://drive.google.com/file/d/1C6CKNV_eO-yh92XC1CYWkl3rGex3QXYY/view?usp=sharing)
 
-![App Screenshot](https://drive.google.com/file/d/1MCZR1URWn5_SbnyeJxsQ3Ry5v491Cl_6/view?usp=sharing)
+![Screenshot](https://drive.google.com/file/d/1YgkPdYgwj8n6iCqdCdleA18W396LyuVh/view?usp=sharing)
 
-![App Screenshot](https://drive.google.com/file/d/19U6HdJlKOqy4oPQLZxLyIyryOyKgwiF1/view?usp=sharing)
+![Screenshot](https://drive.google.com/file/d/1MCZR1URWn5_SbnyeJxsQ3Ry5v491Cl_6/view?usp=sharing)
 
-
+![Screenshot](https://drive.google.com/file/d/19U6HdJlKOqy4oPQLZxLyIyryOyKgwiF1/view?usp=sharing)
 
 ## Authors
 
